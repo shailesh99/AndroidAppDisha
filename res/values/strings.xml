@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Disha</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Map Fragment</string>
+    <string name="title_section2">Rickshaw Fragment</string>
+    <string name="title_section3">Section 3</string>
+    <string name="fragment_map_text1">This is the map fragment!</string>
+    <string name="fragment_rickshaw_text1">This is the rickshaw fragment!</string>
+
+</resources>
